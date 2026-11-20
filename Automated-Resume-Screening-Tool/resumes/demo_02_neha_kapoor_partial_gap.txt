@@ -1,0 +1,12 @@
+﻿Neha Kapoor
+Email: neha.kapoor@example.com | Phone: +91-98111-22334
+Summary: Reporting and BI Analyst with 1.5 years of experience turning business data into clear Excel sheets and interactive dashboards.
+
+Experience:
+Business Reporting Analyst | RetailPulse (1.5 years of experience)
+- Built SQL queries to extract sales and inventory metrics for daily operations.
+- Created Excel pivot tables, macros, and automated templates for recurring management reports.
+- Designed Power BI and Tableau reports with clear data visualization and basic statistics summaries.
+
+Skills:
+SQL, Excel, Power BI, Tableau, Data Visualization, Statistics

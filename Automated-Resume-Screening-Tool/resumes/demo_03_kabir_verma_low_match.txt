@@ -1,0 +1,11 @@
+﻿Kabir Verma
+Email: kabir.verma@example.com | Phone: +91-99887-66554
+Summary: Fresher front-end enthusiast focused on building responsive user interfaces and landing pages.
+
+Projects & Experience:
+Frontend Intern (0.5 years of experience)
+- Designed responsive web pages using HTML, CSS, JavaScript, and React.
+- Collaborated on UI layouts and component styling.
+
+Skills:
+HTML, CSS, JavaScript, React, Figma

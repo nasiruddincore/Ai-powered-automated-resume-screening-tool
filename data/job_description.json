@@ -1,0 +1,22 @@
+{
+  "job_title": "Junior Data Analyst / Python Automation",
+  "min_exp_years": 1.0,
+  "shortlist_threshold": 65.0,
+  "consider_threshold": 45.0,
+  "must_have_skills": [
+    "python",
+    "sql",
+    "pandas",
+    "excel"
+  ],
+  "nice_to_have_skills": [
+    "numpy",
+    "power bi",
+    "tableau",
+    "scikit-learn",
+    "git",
+    "data visualization",
+    "statistics"
+  ],
+  "description": "Looking for a detail-oriented candidate with strong Python, SQL, Pandas, and Excel skills to clean data, automate recurring reports, build dashboards, and support analytics workflows. Experience with Power BI, Tableau, NumPy, scikit-learn, and Git is a plus."
+}

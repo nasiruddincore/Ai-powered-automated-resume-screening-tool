@@ -1,0 +1,13 @@
+﻿Aarav Mehta
+Email: aarav.mehta@example.com | Phone: +91-98765-43210
+Summary: Data Analyst with 2 years of experience in Python, SQL, Pandas, and Excel to clean datasets, automate recurring reports, and build interactive dashboards.
+
+Experience:
+Junior Data Analyst | FinEdge Analytics (2 years of experience)
+- Wrote complex SQL queries and Python scripts using Pandas and NumPy to process 500k+ monthly records.
+- Automated weekly Excel and reporting workflows, cutting manual effort by 60%.
+- Built Power BI and Tableau dashboards for data visualization and statistics-driven KPI tracking.
+- Version-controlled analytics scripts using Git and explored basic scikit-learn models.
+
+Skills:
+Python, SQL, Pandas, NumPy, Excel, Power BI, Tableau, scikit-learn, Git, Data Visualization, Statistics

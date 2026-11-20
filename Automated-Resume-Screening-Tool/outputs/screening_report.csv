@@ -1,0 +1,2 @@
+Rank,Candidate,File,Match Score,Status,Must-Have,Missing Must-Have,Matched Skills,Exp (Yrs),TF-IDF Sim,Note
+1,Neha Kapoor,Neha Kapoor.docx,41.39,REJECT,2/4,"python, pandas","data visualization, excel, power bi, sql, statistics, tableau",1.5,0.1571,"Missing: python, pandas"
